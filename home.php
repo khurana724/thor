@@ -9,11 +9,7 @@ include 'config.inc';
 		</fieldset>
 		<br>
 		<fieldset>
-			<center>
-				| <a href='home.php'>Home</a>
-				| <a href='status_sheet.php'>Status Sheet</a> | <a href='hours.php'>Hours Tracking</a> | <a href='defects.php'>Defects</a>
-				| <a href='tracking_sheet.php'>Tracking Sheet</a> | <a href='framework_new_methods.php'> New Methods for Framework</a> |
-			</center>
+			<?php include 'templates/links.html' ?>
 		</fieldset>
 		<br>
 		<fieldset>
