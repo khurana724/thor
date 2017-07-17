@@ -1,4 +1,2 @@
-Some change
 Test File Changes
-Change
-New Change
+New Changes
