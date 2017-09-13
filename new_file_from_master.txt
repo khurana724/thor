@@ -1,1 +1,2 @@
 Changes of master new
+New Change from master
