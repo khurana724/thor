@@ -1,1 +1,2 @@
-File Master Branch
+This line is branch
+This line is both
