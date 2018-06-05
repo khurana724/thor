@@ -1,3 +1,0 @@
-This line is master
-This line is both
-Original Line
